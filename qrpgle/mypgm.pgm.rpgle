@@ -1,5 +1,5 @@
 **free
-
+'test'
 /copy 'qrpgleref/constants.rpgleinc'
 
 dcl-s mytext char(20);
